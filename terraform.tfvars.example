@@ -1,0 +1,8 @@
+awskey = ""
+awssecret = ""
+masterpassword = ""
+password = ""
+rundeckpro-license-path = ""
+admin-role-aclpolicy-path = ""
+kubeconfig-path = ""
+storageClassName = ""
